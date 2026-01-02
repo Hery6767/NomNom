@@ -1,0 +1,34 @@
+# Node
+node_modules/
+
+# Build / output
+dist/
+build/
+android/app/build/
+ios/Pods/
+*.apk
+*.aab
+bin/
+obj/
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.log
+
+# Environment
+.env
+.env.*
+
+# System
+.DS_Store
+Thumbs.db
+# Hệ thống
+.DS_Store
+Thumbs.db
+# Android build files
+android/.gradle/
+android/app/.cxx/
+android/app/build/
+core/assets/
+node_modules/

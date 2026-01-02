@@ -1,0 +1,125 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/font/Merienda/Merienda-VariableFont_wght.ttf",
+      "sha1": "3fefe8e321671c679d2d8aca1e3ea0e066e15ca0"
+    },
+    {
+      "path": "assets/font/Merienda/OFL.txt",
+      "sha1": "1503ecf446d990db55de75f9c406bef995e73fd9"
+    },
+    {
+      "path": "assets/font/Merienda/README.txt",
+      "sha1": "74ecbc2120b9182eb7b9334bafc5b3592e8bc1b3"
+    },
+    {
+      "path": "assets/font/Merienda/static/Merienda-Black.ttf",
+      "sha1": "73d82d4afb4920e2cca971692a00c2f72938deae"
+    },
+    {
+      "path": "assets/font/Merienda/static/Merienda-Bold.ttf",
+      "sha1": "72011ae922ad0a5c5dc4ced0ff37e19a7582d49e"
+    },
+    {
+      "path": "assets/font/Merienda/static/Merienda-ExtraBold.ttf",
+      "sha1": "8dc958bcafde343a4d204d80b238e6d28375f130"
+    },
+    {
+      "path": "assets/font/Merienda/static/Merienda-Light.ttf",
+      "sha1": "e71a0e3923f224333f4f4b7e509b4992aee210f0"
+    },
+    {
+      "path": "assets/font/Merienda/static/Merienda-Medium.ttf",
+      "sha1": "1247b54dd0f75ef521b452e2277101517ae9bdaa"
+    },
+    {
+      "path": "assets/font/Merienda/static/Merienda-Regular.ttf",
+      "sha1": "3531342a1655304dc3cbf245b01f255aad58da25"
+    },
+    {
+      "path": "assets/font/Merienda/static/Merienda-SemiBold.ttf",
+      "sha1": "a15f76164c9a26ef86bd80233cbf53c4902ba159"
+    },
+    {
+      "path": "assets/font/OleoScriptSwashCaps-Bold.ttf",
+      "sha1": "7f15c1fee090213f831b0a81c7f2a9ee242806fa"
+    },
+    {
+      "path": "assets/font/Oleo_Script_Swash_Caps/OleoScriptSwashCaps-Regular.ttf",
+      "sha1": "1f67c63319cab7256ddcff472c3d82302bfaae2d"
+    },
+    {
+      "path": "assets/font/Prompt/Prompt-Black.ttf",
+      "sha1": "c3d8031352a7a209e1812158d026e5a273642ee9"
+    },
+    {
+      "path": "assets/font/Prompt/Prompt-BlackItalic.ttf",
+      "sha1": "65e009e7cd1db93a1c3b9abfd2716d0f6adad6a8"
+    },
+    {
+      "path": "assets/font/Prompt/Prompt-Bold.ttf",
+      "sha1": "3780b5ecc1feb84c5c02baa905d080f862123861"
+    },
+    {
+      "path": "assets/font/Prompt/Prompt-BoldItalic.ttf",
+      "sha1": "846e2d57ce7d5c7cafda03c9c62ce0e6b4f155c6"
+    },
+    {
+      "path": "assets/font/Prompt/Prompt-ExtraBold.ttf",
+      "sha1": "650d07b3fa02cf6b69f45891de406a9fd5f9ea4c"
+    },
+    {
+      "path": "assets/font/Prompt/Prompt-ExtraBoldItalic.ttf",
+      "sha1": "58ef25270e2f87793be8ff9573215051e61018b5"
+    },
+    {
+      "path": "assets/font/Prompt/Prompt-ExtraLight.ttf",
+      "sha1": "a317f0b9c115f2bc2f547b0d4024ddd15c70713b"
+    },
+    {
+      "path": "assets/font/Prompt/Prompt-ExtraLightItalic.ttf",
+      "sha1": "59d20468be79498b60d0f283697d0afe162cd8a7"
+    },
+    {
+      "path": "assets/font/Prompt/Prompt-Italic.ttf",
+      "sha1": "bce6d6e1f98da7f1538507a21d95473c16c3ba92"
+    },
+    {
+      "path": "assets/font/Prompt/Prompt-Light.ttf",
+      "sha1": "fc6944c247b5e45053494ab190f8a24e3805c415"
+    },
+    {
+      "path": "assets/font/Prompt/Prompt-LightItalic.ttf",
+      "sha1": "41d27de6e8173ebd1c1aafa2127c4cdc505b1123"
+    },
+    {
+      "path": "assets/font/Prompt/Prompt-Medium.ttf",
+      "sha1": "86dc787f5e9226f8e2c41c806fb6d7f3da0482cf"
+    },
+    {
+      "path": "assets/font/Prompt/Prompt-MediumItalic.ttf",
+      "sha1": "1ddddf2d2646ea193e974e8e5f26aa1fafa35f65"
+    },
+    {
+      "path": "assets/font/Prompt/Prompt-Regular.ttf",
+      "sha1": "309878c94d04897fcc4858299e0a52999812d044"
+    },
+    {
+      "path": "assets/font/Prompt/Prompt-SemiBold.ttf",
+      "sha1": "fb7941f731a81a6bc19bf007abfd913e24d9a790"
+    },
+    {
+      "path": "assets/font/Prompt/Prompt-SemiBoldItalic.ttf",
+      "sha1": "493dc598382113851ff049adfd1d6023b2806422"
+    },
+    {
+      "path": "assets/font/Prompt/Prompt-Thin.ttf",
+      "sha1": "14dcebdff426d2ce9ffad3c769166847928ad5f9"
+    },
+    {
+      "path": "assets/font/Prompt/Prompt-ThinItalic.ttf",
+      "sha1": "2af0c78e0e09fcb9ec173f525b56baac110d5dfb"
+    }
+  ]
+}
